@@ -1,0 +1,31 @@
+Statistics
+==========
+The Number of people served = 8
+The lost business = 17 people 
+
+The following groups are in the shop:
+=====================================
+Group 1 (2 people) arrived at t = 2
+Group 3 (4 people) arrived at t = 6
+Group 4 (3 people) arrived at t = 8
+Group 5 (1 people) arrived at t = 10
+Group 6 (1 people) arrived at t = 12
+Group 7 (4 people) arrived at t = 14
+Group 8 (4 people) arrived at t = 16
+Group 9 (2 people) arrived at t = 18
+Group 10 (4 people) arrived at t = 20
+
+
+The following groups are in the history/log:
+===============================================
+Group 0 (3 people) arrived at t = 0
+Group 1 (2 people) arrived at t = 2
+Group 2 (1 people) arrived at t = 4
+Group 3 (4 people) arrived at t = 6
+Group 4 (3 people) arrived at t = 8
+Group 5 (1 people) arrived at t = 10
+Group 6 (1 people) arrived at t = 12
+Group 7 (4 people) arrived at t = 14
+Group 8 (4 people) arrived at t = 16
+Group 9 (2 people) arrived at t = 18
+Group 10 (4 people) arrived at t = 20
